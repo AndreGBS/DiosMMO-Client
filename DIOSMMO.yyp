@@ -58,7 +58,7 @@
             "Key": "0f827dd4-7d86-48f8-a31f-1af328509de5",
             "Value": {
                 "id": "193c2734-8bdd-48f9-b847-913c758163fb",
-                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourcePath": "rooms\\rmMainMenu\\rmMainMenu.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -108,6 +108,14 @@
                 "id": "87a5af04-1e90-4c8e-a6a3-a2df23c048ba",
                 "resourcePath": "views\\1d319644-e5fd-48ae-888e-aa3439526d2d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "28dd54e9-b197-4d10-be35-114cc5dfd0a1",
+            "Value": {
+                "id": "e4edcc08-91ab-4400-a60b-9d1caef04822",
+                "resourcePath": "rooms\\rmTest001\\rmTest001.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "4afb7fac-c4ac-4c25-a11b-7b85948c813b",
+            "Value": {
+                "id": "11c72123-7aab-4957-895d-c9f2482faff1",
+                "resourcePath": "sprites\\sprAlforriarde_Right\\sprAlforriarde_Right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "50103f14-1404-431c-a67d-b8ca74b995ee",
             "Value": {
                 "id": "14c4620e-379e-4244-892f-9e29f8de4a1a",
@@ -203,6 +219,14 @@
             "Value": {
                 "id": "3b684482-2a33-45e6-8655-98d9a99d6dfc",
                 "resourcePath": "sprites\\sprite9\\sprite9.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "580d3cdf-2fc4-4372-9386-8b291eebde2d",
+            "Value": {
+                "id": "948cdbe6-20dc-4e15-a0c2-8af7d5000315",
+                "resourcePath": "sprites\\sprAlforriardes_Up\\sprAlforriardes_Up.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -239,14 +263,6 @@
             }
         },
         {
-            "Key": "7ec0d55a-5928-48a4-b701-f15e28582bba",
-            "Value": {
-                "id": "7938913e-ab7c-44b7-9644-5e998d557e48",
-                "resourcePath": "rooms\\room1\\room1.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "8952d51e-2878-4f68-a420-4b299f3d1624",
             "Value": {
                 "id": "7c47b10d-0b09-4de2-915c-3de5241dc4d1",
@@ -268,6 +284,14 @@
                 "id": "450c9e16-bc6e-4440-a79a-9a0f32fc9c49",
                 "resourcePath": "views\\9879f8bf-e857-4f50-a210-131a538db9eb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "98a9a109-3a1d-4f9a-97c5-e17db6cfa7c7",
+            "Value": {
+                "id": "840783bf-9458-40e1-a221-a9a478bfa606",
+                "resourcePath": "sprites\\sprAlforriardes_Down\\sprAlforriardes_Down.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -299,6 +323,14 @@
             "Value": {
                 "id": "e28aecf5-bf0a-4ee8-aea4-ac9f43c1519a",
                 "resourcePath": "views\\a3180c0f-3adb-4b60-8a9f-046cc834b620.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a33cd7da-d1d0-44c5-8cbe-2c9779fcf02e",
+            "Value": {
+                "id": "8bfd3b7f-99bc-4182-aa37-fe28e596fa14",
+                "resourcePath": "views\\a33cd7da-d1d0-44c5-8cbe-2c9779fcf02e.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -379,6 +411,14 @@
             "Value": {
                 "id": "666cdf3f-9059-4f2b-a90e-917cbd166211",
                 "resourcePath": "sprites\\sprBlack\\sprBlack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f3dcad8d-d322-4004-a1cf-439c97971ee1",
+            "Value": {
+                "id": "0869bcc5-40b2-4bf1-9eed-9b1c9a14b7b8",
+                "resourcePath": "sprites\\sprAlforriardes_Left\\sprAlforriardes_Left.yy",
                 "resourceType": "GMSprite"
             }
         },

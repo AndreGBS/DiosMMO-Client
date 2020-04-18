@@ -7,7 +7,9 @@ do
 	switch(messid)
 	{
 		case 0:
-			show_message("Login :" + string(buffer_read(buff, buffer_u8)));
+			show_message(buffer_read(buff, buffer_u8));
+			/*if(buffer_read(buff, buffer_u8))
+				room_goto(rmTest001);	*/
 		break;
 	
 		case 1:
